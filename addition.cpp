@@ -18,3 +18,10 @@ int main() {
 
     return 0;
 }
+
+/*
+Output
+Enter the first number: 5
+Enter the second number: 5
+The sum of 5 and 5 is 10
+*/
