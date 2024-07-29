@@ -18,3 +18,8 @@ int main() {
 
     return 0;
 }
+/*
+Output
+Enter a year: 2019
+2019 is not a leap year.
+*/
