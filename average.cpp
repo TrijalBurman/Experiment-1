@@ -18,3 +18,9 @@ int main() {
 
     return 0;
 }
+/*
+output
+Enter the first number: 5
+Enter the second number: 3
+The average of 5 and 3 is 4
+*/
