@@ -17,3 +17,8 @@ int main() {
 
     return 0;
 }
+/*
+Output
+Enter an integer: 4
+4 is even.
+*/
